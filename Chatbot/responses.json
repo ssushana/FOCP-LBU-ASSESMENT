@@ -1,0 +1,14 @@
+{
+    "responses": {
+        "coffee": "The campus coffee bar is open from 8 AM to 5 PM, {name}. Would you like to know more?",
+        "library": "The library is open from 9 AM to 9 PM on weekdays, {name}. It's a great place to study!",
+        "admissions": "You can find information about admissions on our website, {name}. Let me know if you need help with that!",
+        "courses": "We offer a variety of courses, {name}. Please check our course catalog for details.",
+        "tuition": "Tuition fees vary by program, {name}. Please visit our tuition page for more information.",
+        "events": "We have various events happening on campus, {name}. Check our events calendar for the latest updates.",
+        "housing": "Student housing options are available, {name}. You can find more information on our housing page.",
+        "sports": "We have a variety of sports teams, {name}. You can join or support them!",
+        "scholarships": "There are several scholarships available, {name}. Check our financial aid page for details.",
+        "transport": "Public transport options are available, {name}. You can find schedules on our transport page."
+    }
+}

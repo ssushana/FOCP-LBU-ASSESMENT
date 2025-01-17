@@ -1,0 +1,6 @@
+2025-01-16 11:07:58 - User: coffee
+2025-01-16 11:07:58 - Agent: The campus coffee bar is open from 8 AM to 5 PM, sushana. Would you like to know more?
+
+2025-01-16 11:08:14 - User: courses
+2025-01-16 11:08:14 - Agent: We offer a variety of courses, sushana. Please check our course catalog for details.
+
